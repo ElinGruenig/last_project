@@ -1,0 +1,3 @@
+Hund;Dog
+0;0
+Tier;Animal
