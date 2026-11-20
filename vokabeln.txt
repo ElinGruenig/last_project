@@ -1,3 +1,5 @@
 Hund;Dog
 Tier;Animal
 Maus;Mouse
+Essen;Food
+super;super
